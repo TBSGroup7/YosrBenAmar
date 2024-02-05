@@ -1,4 +1,5 @@
 import * as React from "react";
+//display object
 const welcome={
   greeting:"hey",
   title:"react",
